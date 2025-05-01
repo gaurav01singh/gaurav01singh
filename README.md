@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurav01singh" alt="gaurav01singh" /></a> </p>
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Development, Game Development, Beckend Development, Android Development**
 
 - 📫 How to reach me **gauravsingh02195@gmail.com**
 
